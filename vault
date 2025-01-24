@@ -1,0 +1,27 @@
+---
+Title: Welcome to the Vault Data API
+---
+
+The Vault Data API provides a comprehensive set of RESTful endpoints that allow developers to interact with Vault data stored on the Vault server. This API is designed to facilitate the access, analysis, and manipulation of Vault data. The Vault APIs allow customers and partners to develop extensions on top of Vault, extending connectivity to Vault data to other tools and applications.
+
+The Vault Data API offers a wide range of functionalities, including:
+
+* Informational: Retrieve API specifications, server information, and knowledge vault details.
+* Authentication: Manage user sessions, including creating and deleting sessions with standard or Windows authentication.
+* Accounts Management: Access and manage groups, user roles, and user accounts.
+* System and Vault Options: Get and set system and vault•specific options.
+* Property Definitions: Retrieve information about property definitions used in Vault.
+* Files and Folders: Access file versions, download files, manage file associations, and retrieve file metadata.
+* Items Management: Retrieve information about item versions, bill of materials (BOM), and item associations.
+* Change Orders: Manage change orders and their associated entities, comments, and attachments.
+* Links: Retrieve and manage links.
+* Search: Perform basic and advanced searches within Vault.
+* Jobs: Create and manage jobs within the Vault system.
+
+
+## Common Uses
+The Vault Data API is designed for developers and system integrators who need to interact with Vault data programmatically. This includes:
+
+* Software Developers: Looking to build custom applications or integrations that interact with Vault data.
+* System Integrators: Needing to automate workflows and data management processes within Vault.
+* IT Administrators: Managing and retrieving Vault data for various organizational needs.
